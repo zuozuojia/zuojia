@@ -26,16 +26,6 @@ Personal Assignment During the Competition:
 - Lead team members to carry out promotional activities and get sponsorship
 - Hold intramural competitions to select freshmen members
 
-I’m holding team meetings and give orders to team members:
-<table>
-    <tr>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛1.png" width="200" ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛3.png" width="200" ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛2.png" width="200" ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛4.jpeg" width="200" ></center></td>
-    </tr>
-</table>
-
 Some pictures of me in the contest:
 <table>
     <tr>
