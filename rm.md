@@ -12,7 +12,7 @@ The RoboMaster University Championship focuses on the comprehensive application 
 
 ## Leadership Experience
 
-<style>
+<!-- <style>
 .img-wrap{
 border: 1px 
 }
@@ -20,13 +20,21 @@ img{
 float: left;
 width: 30%;
 }
-</style>
- 
-<div class='img-wrap'>
+</style> -->
+
+<table>
+    <tr>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/步兵.png"  >Figure 1.Infantry robot</center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/英雄.png"  >Figure 2.Hero robot</center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/哨兵.png"  >Figure 3.Sentry robot</center></td>
+    </tr>
+</table>
+
+<!-- <div class='img-wrap'>
 <img src="https://zuozuojia.github.io/zuojia/images/步兵.png" width="200">
 <img src="https://zuozuojia.github.io/zuojia/images/英雄.png" width="200">
 <img src="https://zuozuojia.github.io/zuojia/images/哨兵.png" width="200">
-</div>
+</div> -->
 
 ## Embedded Project
 
