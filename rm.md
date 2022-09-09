@@ -29,20 +29,20 @@ Personal Assignment During the Competition:
 I’m holding team meetings and give orders to team members:
 <table>
     <tr>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛1.png"  ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛2.png"  ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛3.png"  ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛4.jpeg"  ></center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛1.png" width="200" ></center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛3.png" width="200" ></center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛2.png" width="200" ></center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛4.png" width="200" ></center></td>
     </tr>
 </table>
 
 Some pictures of me in the contest:
 <table>
     <tr>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛1.png"  ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛2.png"  ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛3.png"  ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛4.jpeg"  ></center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛1.png" width="200" ></center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛3.png" width="200" ></center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛2.png" width="200" ></center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛4.png" width="200" ></center></td>
     </tr>
 </table>
 
@@ -69,10 +69,9 @@ A group photo of my team and our robots:
 <img src="https://zuozuojia.github.io/zuojia/images/rm合照.png">
 
 Video of our competition:
-[![](https://zuozuojia.github.io/zuojia/images/步兵.png)](https://player.bilibili.com/player.html?aid=642858681&bvid=BV1TY4y1n74w&cid=756999895&page=1)
+[![](https://zuozuojia.github.io/zuojia/images/hero_victory.png)](https://player.bilibili.com/player.html?aid=642858681&bvid=BV1TY4y1n74w&cid=756999895&page=1)
 <!-- <video src="https://www.bilibili.com/video/BV1TY4y1n74w?spm_id_from=333.999.0.0"></video> -->
 <!-- <iframe height=498 width=510 src="https://www.bilibili.com/video/BV1TY4y1n74w?spm_id_from=333.999.0.0"> -->
-
 
 
 <!-- <div class='img-wrap'>
