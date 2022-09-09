@@ -9,6 +9,8 @@
 
   a {
     color: inherit;
+    // color: rebeccapurple;
+    // color: #000000;
     text-decoration: none;
   }
 }
@@ -31,6 +33,7 @@
   a:hover,
   a:focus {
     color: var(--link-hover-color);
+    // color: hwb(1.5708rad 20% 10% / 0.7);
   }
 }
 

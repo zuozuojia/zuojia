@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Smart Car
 ---
 
 Click the following links for more information:
