@@ -1,4 +1,6 @@
-- title: Blog
-  url: /
-- title: About
-  url: /about/
+- title: Projects
+  url: /introduction/
+- title: Certificate
+  url: /certificate/
+- title: CV_English
+  url: /cv_en/

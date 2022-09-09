@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Zuo Jia
+description: Interested in Robotics Control and Embedded.
+url: https://zuozuojia.github.io/posts/Firstpage/
+avatar: ./images/ZZJ.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -26,6 +26,7 @@ exclude:
   - README.md
   - scripts/
   - not-pure-poole.gemspec
+  - vendor
 
 # Optimize Jekyl SEO Tag
 twitter:
@@ -54,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Zuo Jia
+  url: https://github.com/zuozuojia/
+  email: hit.zzj.zuojia@gmail.com
