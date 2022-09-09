@@ -12,7 +12,7 @@ The RoboMaster University Championship focuses on the comprehensive application 
 
 
 ## My Team Position
-- 2022 ROBOMASTER : <font color='yellow'> <b>Captain</b> </font>, <b>Embedded Engineer</b>
+- 2022 ROBOMASTER : <font color='#00ff00'> <b>Captain</b> </font>, <b>Embedded Engineer</b>
 - 2021 ROBOMASTER : <b>Vice-Captain</b>, <b>Embedded Engineer</b>, <b>Algorithm Engineer</b>
 
 ---
@@ -32,7 +32,7 @@ I’m holding team meetings and give orders to team members:
         <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛1.png" width="200" ></center></td>
         <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛3.png" width="200" ></center></td>
         <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛2.png" width="200" ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛4.png" width="200" ></center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛4.jpeg" width="200" ></center></td>
     </tr>
 </table>
 
@@ -42,7 +42,7 @@ Some pictures of me in the contest:
         <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛1.png" width="200" ></center></td>
         <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛3.png" width="200" ></center></td>
         <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛2.png" width="200" ></center></td>
-        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛4.png" width="200" ></center></td>
+        <td ><center><img src="https://zuozuojia.github.io/zuojia/images/rm备赛4.jpeg" width="200" ></center></td>
     </tr>
 </table>
 
