@@ -100,7 +100,7 @@ GitHub link:
 
 - [[bsp/stm32] Fix the bug of can filter conflict.](https://github.com/RT-Thread/rt-thread/pull/5488)
 
-- [[bsp/stm32] Fix some can and pwm bug in stm32.](https://github.com/RT-Thread/rt-thread/pull/5477)
+- [[bsp/stm32] Fix some can and pwm bugs in stm32.](https://github.com/RT-Thread/rt-thread/pull/5477)
 
 ### 3. Software of Motor Intelligent Control Board (Based on RT-Thread)
 
