@@ -74,12 +74,12 @@ Video of our competition:
 
 ## Embedded Project
 
-### 1. Software Architecture of the Robots in RoboMaster(Based on RT-Thread)
+### 1. Software Architecture of the Robots in RoboMaster (Based on RT-Thread)
 
-The code framework based on RT-Thread is designed for all robots in Robomaster, including peripheral drivers based on RT-Thread; communication protocol; general code library; robot master control, PTZ control, automatic aiming, launch logic and other upper layers module.
+The code framework based on RT-Thread (A kind of RTOS) is designed for all robots in Robomaster, including peripheral drivers based on RT-Thread; communication protocol; general code library; robot master control, PTZ control, automatic aiming, launch logic and other upper layers module.
 
 Software Architecture Diagram:
-<img src="https://zuozuojia.github.io/zuojia/images/RM软件框架.png">
+<img src="https://zuozuojia.github.io/zuojia/images/RM软件架构.png">
 
 Logic block diagram of PTZ control and launch mechanism:
 <img src="https://zuozuojia.github.io/zuojia/images/云台逻辑框图.png">
