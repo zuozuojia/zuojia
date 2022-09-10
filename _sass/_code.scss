@@ -6,6 +6,8 @@
 code,
 pre {
   font-family: var(--code-font);
+  block-size: 240px;
+  writing-mode: horizontal-tb;
 }
 
 code {
