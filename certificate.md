@@ -7,11 +7,11 @@ title: Certificate
 **National-Level Awards:**
 - _1st Prize in the Final Round of the National College Students’ ROBOMASTER 2022 Infantry Robotic Competition_ `08/2022`
 
-<img src="https://zuozuojia.github.io/zuojia/images/18.jpg" width="600">
+<img src="https://zuozuojia.github.io/zuojia/images/18.png" width="600">
 
 - _2nd Prize in the Final Round of the National College Students’ ROBOMASTER 2022 Robotic Competition（The largest and most influential robot competition of China）_ `08/2022`
 
-<img src="https://zuozuojia.github.io/zuojia/images/17.jpg" width="600">
+<img src="https://zuozuojia.github.io/zuojia/images/17.png" width="600">
 
 - _2nd Prize in the Final Round of the National College Students’ ROBOMASTER 2021 robotic Competition（The largest and most influential robot competition of China）_ `08/2021`
 
@@ -26,7 +26,7 @@ title: Certificate
 **Regional-Level Awards:**
 - _1st Prize in the Eastern Division of the National College Students’ ROBOMASTER 2022 Robotic Competition_ `06/2022`
 
-<img src="https://zuozuojia.github.io/zuojia/images/19.jpg" width="600">
+<img src="https://zuozuojia.github.io/zuojia/images/19.png" width="600">
 
 - _1st Prize in the Northern Division of  the National College Students’ RoboMaster 2021 robotic Competition_ `08/2021`
 
