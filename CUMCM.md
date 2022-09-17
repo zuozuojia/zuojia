@@ -39,3 +39,6 @@ I used Python and SPSS to explore ethanol catalysis based on multivariate ANOVA,
 3. The research results range from special to general, from the perspectives of optimization and prediction, and establish models to discuss the optimal choice of catalysts.
 4. The model designs experiments according to the results, has the realistic ability to explore the actual results, and can further optimize the model.
 <img src="https://zuozuojia.github.io/zuojia/images/cumcm6.png">
+
+<a href="1.pdf" target="_blank">PDF<a>
+<iframe src="1.pdf" width="800" height="600"></iframe> 
