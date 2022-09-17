@@ -187,7 +187,7 @@ MotorErr_e IfZeroAngleOK(rt_uint8_t MCUNum, rt_uint8_t MotorNum);
 // *EndAngle - Used to get the last angle
 MotorErr_e IfEndAngleOK(rt_uint8_t MCUNum, rt_uint8_t MotorNum, float *EndAngle);
 ```
-- control commands:
+<!-- - control commands:
     - Set the absolute set value of the speed
     - Set the speed setpoint increment
     - Set the absolute set value of the angle
@@ -210,7 +210,7 @@ MotorErr_e IfEndAngleOK(rt_uint8_t MCUNum, rt_uint8_t MotorNum, float *EndAngle)
     - Configure last position calibration
     - Configuring Stall Threshold Parameters
     - Check whether the zero calibration is completed
-    - Check whether the last position calibration is completed, and obtain the last position angle
+    - Check whether the last position calibration is completed, and obtain the last position angle -->
 
 
 
