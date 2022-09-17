@@ -3,26 +3,39 @@ layout: page
 title: CUMCM
 ---
 
-Click the following links for more information:
+National College Students Mathematical Contest in Modeling is a competition that requires students to solve practical problems through modeling and programming, which can exercise and test students' ability of analysis, modeling, programming and writing papers. 
 
-- 718 Smart Car Laboratory / 718创新实验室（[Introduction / 简介](https://zuozuojia.github.io/posts/718introduction)）
-    - [Leadership Experience / 负责人经历](https://zuozuojia.github.io/posts/718leader)
-    - Research Experience / 项目经历
-        - [Smart Car / 智能车](https://zuozuojia.github.io/posts/718smartcar)
-        - [Smart Watch / 智能手表](https://zuozuojia.github.io/posts/718smartwatch)
-- HERO Competitive Robot Team / HERO竞技机器人队（[Introduction / 简介](https://zuozuojia.github.io/posts/HEROintroduction)）
-    - [Leadership Experience / 负责人经历](https://zuozuojia.github.io/posts/HEROleader)
-    - Research Experience / 项目经历
-        - [Software Architecture of the Robots in RoboMaster(Based on RT-Thread) / 基于RT-Thread的电控代码架构](https://zuozuojia.github.io/posts/RMsoftware)
-        - [Contributions to RT-Thread (A kind of RTOS) / 对RT-Thread（一种RTOS）的贡献](https://zuozuojia.github.io/posts/RTT)
-        - [Software of Motor Intelligent Control Board(Based on RT-Thread) / 电机智能控制板软件](https://zuozuojia.github.io/posts/Motor)
-        - [Adaptive Exposure Algorithm / 自适应曝光算法](https://zuozuojia.github.io/posts/AdaptiveExposure)
-        - [Auto Disturbance Rejection Control(ADRC) / 自抗扰控制ADRC](https://zuozuojia.github.io/posts/ADRC)（under study / 正在研究中）
-- Mathematical Modeling Contest（CUMCM） / 数学建模
-    - [Out of the Desert / 走出荒漠](https://zuozuojia.github.io/posts/desert)
-    - [The Influence of Music / 音乐的影响力](https://zuozuojia.github.io/posts/music)
-    - [Optimization of Process Conditions for Preparation of C4 Olefins by Ethanol Catalytic Coupling / 乙醇催化偶合制备C4烯烃工艺条件的优化问题](https://zuozuojia.github.io/posts/C4)
-    - [Global Equity and Asteroid Mining / 全球公平及小行星开采](https://zuozuojia.github.io/posts/fair)
-- [Certificate / 证书](https://zuozuojia.github.io/posts/certificate)
+I Led a team in the competition for 4 times:
+Acquired a fresh insight of mathematics to support the scientific and technological research;
+Accumulated experiences in literature reviews and academic writings.
 
+## Impact of asteroid mining on global equity
 
+Modeled and studied the factors that affect fairness in the world and accomplished the paper writing.
+
+1. Data collection and preprocessing. 
+2. Use secondary fuzzy comprehensive evaluation to build a model of global equity based on 
+the happiness indicators of countries, which includes objective and subjective factors. 
+3. Establish a model to analyze the impacts of asteroid mining, and get the degree of global 
+equity after asteroid mining. 
+4. Change the models and parameters of the impact of asteroid mining, compare the degree of 
+the global equity. 
+5. Come up with policies of asteroid mining for more global equity.
+
+<!-- Visualization of global equity on a map: -->
+
+<img src="https://zuozuojia.github.io/zuojia/images/cumcm1.png">
+<img src="https://zuozuojia.github.io/zuojia/images/cumcm2.png">
+<img src="https://zuozuojia.github.io/zuojia/images/cumcm3.png">
+<img src="https://zuozuojia.github.io/zuojia/images/cumcm4.png">
+<img src="https://zuozuojia.github.io/zuojia/images/cumcm5.png">
+
+## Analysis and optimization of process conditions for catalytic coupling of ethanol to prepare C4 olefins
+
+I used Python and SPSS to explore ethanol catalysis based on multivariate ANOVA, Spearman correlation coefficient analysis.
+
+1. The use of mature statistical software SPSS is relatively simple to operate and has a high degree of feasibility.
+2. Comprehensively consider the relationship between the influencing factors, use multi-factor analysis of variance, not just a single T test for a certain indicator. Or one-way analysis of variance, there will be no chance of errors in the analysis of influencing factors, and it will not be difficult to obtain inconsistencies in the analysis results.to a comprehensive conclusion.
+3. The research results range from special to general, from the perspectives of optimization and prediction, and establish models to discuss the optimal choice of catalysts.
+4. The model designs experiments according to the results, has the realistic ability to explore the actual results, and can further optimize the model.
+<img src="https://zuozuojia.github.io/zuojia/images/cumcm6.png">
