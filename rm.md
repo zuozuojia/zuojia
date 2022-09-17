@@ -59,11 +59,11 @@ A group photo of my team and our robots:
 <img src="https://zuozuojia.github.io/zuojia/images/rm合照.png">
 
 Video of our competition:
-[![](https://zuozuojia.github.io/zuojia/images/hero_victory.png)](https://player.bilibili.com/player.html?aid=642858681&bvid=BV1TY4y1n74w&cid=756999895&page=1)
+<!-- [![](https://zuozuojia.github.io/zuojia/images/hero_victory.png)](https://player.bilibili.com/player.html?aid=642858681&bvid=BV1TY4y1n74w&cid=756999895&page=1) -->
 <!-- <video src="https://www.bilibili.com/video/BV1TY4y1n74w?spm_id_from=333.999.0.0"></video> -->
 <!-- <iframe height=498 width=510 src="https://www.bilibili.com/video/BV1TY4y1n74w?spm_id_from=333.999.0.0"> -->
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=kqdkdlgtjy8" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=kqdkdlgtjy8" frameborder="0" allowfullscreen></iframe>
 
 <!-- <div class='img-wrap'>
 <img src="https://zuozuojia.github.io/zuojia/images/步兵.png" width="200">
@@ -150,8 +150,8 @@ void ReadM105_AngleI(rt_uint8_t MCUNum, rt_uint8_t MotorNum, float *i_value);
 // Configure Motor Control Mode
 // parameter:
 // SET105_NO_CONTROL - do not control
-// SET105_SPEED_CONTROL - speed closed-loop control
-// SET105_ANGLE_CONTROL - angle closed-loop control
+// SET105_SPEED_CONTROL - speed PID control
+// SET105_ANGLE_CONTROL - speed-angle PID control
 void SetM105_ControlMode(rt_uint8_t MCUNum, rt_uint8_t MotorNum, ControlMode_e ControlMode);
 // Configure motor speed closed-loop PID parameters
 void SetM105_SpeedPID_K(rt_uint8_t MCUNum, rt_uint8_t MotorNum, float kp, float ki, float kd, rt_uint8_t SpePeriod);
@@ -185,7 +185,30 @@ MotorErr_e IfZeroAngleOK(rt_uint8_t MCUNum, rt_uint8_t MotorNum);
 // *EndAngle - Used to get the last angle
 MotorErr_e IfEndAngleOK(rt_uint8_t MCUNum, rt_uint8_t MotorNum, float *EndAngle);
 ```
-
+- control commands:
+    - Set the absolute set value of the speed
+    - Set the speed setpoint increment
+    - Set the absolute set value of the angle
+    - Set the angle setpoint increment
+    - Set output offset and gain
+- read commands:
+    - Read the angle command of the current motor data source encoder
+    - Read current motor absolute angle command
+    - Read current speed command
+    - Read current current value command
+    - Read current angle closed-loop integral value command
+- configuration command:
+    - Configure Motor Control Mode:do not control / speed PID control / speed-angle PID control
+    - Configure motor speed closed-loop PID parameters
+    - Configure motor speed closed-loop PID limit parameters
+    - Configure motor angle closed-loop PID parameters
+    - Configure motor angle closed-loop PID limit parameters
+    - Configuring Coefficients for Feedforward Control
+    - Configure parameters for zero calibration
+    - Configure last position calibration
+    - Configuring Stall Threshold Parameters
+    - Check whether the zero calibration is completed
+    - Check whether the last position calibration is completed, and obtain the last position angle
 
 
 
@@ -204,4 +227,4 @@ The effect diagram of removing large light spots:
 
 Video of the effect of adaptive exposure algorithm that automatically cuts out large light spots:
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=bb7qiyvm8rk" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=bb7qiyvm8rk" frameborder="0" allowfullscreen></iframe>
