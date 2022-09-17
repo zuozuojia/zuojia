@@ -22,13 +22,16 @@ equity after asteroid mining.
 the global equity. 
 5. Come up with policies of asteroid mining for more global equity.
 
+
 <!-- Visualization of global equity on a map: -->
 
 <img src="https://zuozuojia.github.io/zuojia/images/cumcm1.png">
-<img src="https://zuozuojia.github.io/zuojia/images/cumcm2.png">
+<!-- <img src="https://zuozuojia.github.io/zuojia/images/cumcm2.png">
 <img src="https://zuozuojia.github.io/zuojia/images/cumcm3.png">
 <img src="https://zuozuojia.github.io/zuojia/images/cumcm4.png">
-<img src="https://zuozuojia.github.io/zuojia/images/cumcm5.png">
+<img src="https://zuozuojia.github.io/zuojia/images/cumcm5.png"> -->
+
+<iframe src="../1.pdf" width="800" height="600"></iframe> 
 
 ## Analysis and optimization of process conditions for catalytic coupling of ethanol to prepare C4 olefins
 
@@ -40,5 +43,5 @@ I used Python and SPSS to explore ethanol catalysis based on multivariate ANOVA,
 4. The model designs experiments according to the results, has the realistic ability to explore the actual results, and can further optimize the model.
 <img src="https://zuozuojia.github.io/zuojia/images/cumcm6.png">
 
-<a href="1.pdf" target="_blank">PDF<a>
-<iframe src="1.pdf" width="800" height="600"></iframe> 
+<!-- <a href="../1.pdf" target="_blank">[Click to view the paper]<a> -->
+<iframe src="../2.pdf" width="800" height="600"></iframe> 
