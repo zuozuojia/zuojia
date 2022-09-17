@@ -63,6 +63,7 @@ Video of our competition:
 <!-- <video src="https://www.bilibili.com/video/BV1TY4y1n74w?spm_id_from=333.999.0.0"></video> -->
 <!-- <iframe height=498 width=510 src="https://www.bilibili.com/video/BV1TY4y1n74w?spm_id_from=333.999.0.0"> -->
 
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=kqdkdlgtjy8" frameborder="0" allowfullscreen></iframe>
 
 <!-- <div class='img-wrap'>
 <img src="https://zuozuojia.github.io/zuojia/images/步兵.png" width="200">
@@ -202,3 +203,5 @@ The effect diagram of removing large light spots:
 <img src="https://zuozuojia.github.io/zuojia/images/自适应曝光.png" width="600">
 
 Video of the effect of adaptive exposure algorithm that automatically cuts out large light spots:
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=bb7qiyvm8rk" frameborder="0" allowfullscreen></iframe>
