@@ -65,7 +65,7 @@ A group photo of my team and our robots:
 
 <!-- <iframe src="https://www.youtube.com/watch?v=kqdkdlgtjy8" frameborder="0" allowfullscreen></iframe> -->
 
-<!-- <iframe height="450" width="800" src="https://player.youku.com/embed/XNTkwMjQxMDA5Ng==" frameborder="0" allowfullscreen=""></iframe> -->
+<iframe height="450" width="800" src="https://player.youku.com/embed/XNTkwMjQxMDA5Ng==" frameborder="0" allowfullscreen=""></iframe>
 
 <!-- <div class='img-wrap'>
 <img src="https://zuozuojia.github.io/zuojia/images/步兵.png" width="200">
@@ -230,5 +230,5 @@ The effect diagram of removing large light spots:
 <!-- Video of the effect of adaptive exposure algorithm that automatically cuts out large light spots: -->
 
 <!-- <iframe  height="450" width="800" src="https://v.youku.com/v_show/id_XNTg2NTc2NDY2MA==.html?spm=a2hcb.playlsit.page.7" frameborder="0" allowfullscreen></iframe> -->
-<!-- <iframe height="450" width="800" src="https://player.youku.com/embed/XNTkwMjQwOTg1Mg==" frameborder="0" allowfullscreen=""></iframe> -->
+<iframe height="450" width="800" src="https://player.youku.com/embed/XNTkwMjQwOTg1Mg==" frameborder="0" allowfullscreen=""></iframe>
  <!-- height="450" width="800" src="http://player.youku.com/embed/XMzMxMjE0MjY4NA==" allowfullscreen=""> -->
