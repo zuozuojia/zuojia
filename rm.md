@@ -20,11 +20,11 @@ The RoboMaster University Championship focuses on the comprehensive application 
 ## Leadership Experience
 
 Personal Assignment During the Competition:
-- Manage the research and development cycle of robots
-- Determine the technical indicators and design scheme of robots
-- Manage and assign tasks to team members
-- Lead team members to carry out promotional activities and get sponsorship
-- Hold intramural competitions to select freshmen members
+- Managed the research and development cycle of robots
+- Determined the technical indicators and designed scheme of robots
+- Managed and assigned tasks to team members
+- Led team members to carry out promotional activities and get sponsorship
+- Held intramural competitions to select freshmen members
 
 Some pictures of me in the contest:
 <table>
