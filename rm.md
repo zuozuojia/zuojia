@@ -20,11 +20,11 @@ The RoboMaster University Championship focuses on the comprehensive application 
 ## Leadership Experience
 
 Personal Assignment During the Competition:
-- Manage the research and development cycle of robots
-- Determine the technical indicators and design scheme of robots
-- Manage and assign tasks to team members
-- Lead team members to carry out promotional activities and get sponsorship
-- Hold intramural competitions to select freshmen members
+- Managed the research and development cycle of robots
+- Determined the technical indicators and designed scheme of robots
+- Managed and assigned tasks to team members
+- Led team members to carry out promotional activities and get sponsorship
+- Held intramural competitions to select freshmen members
 
 Some pictures of me in the contest:
 <table>
@@ -58,7 +58,7 @@ Some pictures of the robots in our team:
 A group photo of my team and our robots:
 <img src="https://zuozuojia.github.io/zuojia/images/rm合照.png">
 
-Video of our competition:
+<!-- Video of our competition: -->
 <!-- [![](https://zuozuojia.github.io/zuojia/images/hero_victory.png)](https://player.bilibili.com/player.html?aid=642858681&bvid=BV1TY4y1n74w&cid=756999895&page=1) -->
 <!-- <video src="https://www.bilibili.com/video/BV1TY4y1n74w?spm_id_from=333.999.0.0"></video> -->
 <!-- <iframe height=498 width=510 src="https://www.bilibili.com/video/BV1TY4y1n74w?spm_id_from=333.999.0.0"> -->
@@ -227,7 +227,7 @@ Based on the characteristics of these two scenes, I found that there are no very
 The effect diagram of removing large light spots:
 <img src="https://zuozuojia.github.io/zuojia/images/自适应曝光.png" width="600">
 
-Video of the effect of adaptive exposure algorithm that automatically cuts out large light spots:
+<!-- Video of the effect of adaptive exposure algorithm that automatically cuts out large light spots: -->
 
 <!-- <iframe  height="450" width="800" src="https://v.youku.com/v_show/id_XNTg2NTc2NDY2MA==.html?spm=a2hcb.playlsit.page.7" frameborder="0" allowfullscreen></iframe> -->
 <iframe height="450" width="800" src="https://player.youku.com/embed/XNTkwMjQwOTg1Mg==" frameborder="0" allowfullscreen=""></iframe>
