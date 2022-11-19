@@ -16,7 +16,6 @@ title: Education
 ## **RELATED COURSES**
 - Analogue Electronic Technology Experiment (94)
 - Advanced Project-driven Electronic Technology Experiment (93)
-- College Computer (91)
 - C Language Programming (96)
 - Error Theory and Data Processing (95)
 - MCU Application Expansion Experiment (95)
