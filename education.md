@@ -9,8 +9,8 @@ title: Education
 [ 2019 - Present ]
 - <b>Degree</b>: Bachelor of Engineering
 - <b>Major</b>: Measurement and Control Technology and Instruments
-- <b>GPA</b>：84.06/100
-- <b>IELTS</b>: 6.0
+- <b>GPA</b>：84.22/100
+- <b>IELTS</b>: 6.5(6.0)
 
 
 ## **RELATED COURSES**
