@@ -6,7 +6,7 @@ title: Education
 
 ## **Harbin Institute of Technology (HIT)** 
 [ Weihai, China ]    
-[ 2019 - Present ]
+[ 2019 - 2023 ]
 - <b>Degree</b>: Bachelor of Engineering
 - <b>Major</b>: Measurement and Control Technology and Instruments
 - <b>GPA</b>：84.22/100
