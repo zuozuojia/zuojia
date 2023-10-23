@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 
 
-<iframe src="../Curriculum_Vitae.pdf" width="1000" height="1800"></iframe> 
+<iframe src="../Curriculum_Vitae.pdf" width="1000" height="800"></iframe> 
 
 
 
