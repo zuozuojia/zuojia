@@ -1,11 +1,11 @@
 # Setup
 title: Zuo Jia
-description: Harbin Institute of Technology (HIT)
+description: Nanyang Technological University (NTU)
 url: https://zuozuojia.github.io/zuojia/
-avatar: ./images/ZZJ.jpg
+avatar: ./images/ZUOJIA.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /rm2.jpg
+cover_image: ./images/wp10770846.jpg
 
 # Gems
 plugins:
@@ -57,4 +57,4 @@ sass:
 author:
   name: Zuo Jia
   url: https://github.com/zuozuojia/
-  email: hit.zzj.zuojia@gmail.com
+  email: JZUO001@e.ntu.edu.sg
