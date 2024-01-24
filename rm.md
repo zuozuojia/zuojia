@@ -109,7 +109,7 @@ GitHub link:
 
 Developed a control relay station that automatically controls the motor. The host MCU only needs to call the corresponding API to send a specific command to the slave MCU to make the slave automatically control different types of motors attached to the slave. It supports different data sources of the motors, different reduction ratios, and different control modes ( Closed-loop speed, closed-loop angle, etc.), automatic alignment, automatic error handling and disconnection detection, etc.. The slave machine mounts the device through the linked list, which shares the calculation amount of the host computer, expands the number of motors that the host computer can control which makes development more flexible and convenient.
 
-```c
+<!-- ```c
 // MCU 105 Slave and motor initialization
 void M105_Init(rt_uint8_t MCUnum);
 /* ----------------------- control commands ----------------------- */
@@ -186,7 +186,7 @@ MotorErr_e IfZeroAngleOK(rt_uint8_t MCUNum, rt_uint8_t MotorNum);
 // Return value: MOTOR_OK - calibration completed, MOTOR_ERR - calibration not completed
 // *EndAngle - Used to get the last angle
 MotorErr_e IfEndAngleOK(rt_uint8_t MCUNum, rt_uint8_t MotorNum, float *EndAngle);
-```
+``` -->
 <!-- - control commands:
     - Set the absolute set value of the speed
     - Set the speed setpoint increment
