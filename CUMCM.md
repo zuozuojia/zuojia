@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CUMCM
+title: Mathematical Contest in Modeling
 ---
 
 National College Students Mathematical Contest in Modeling is a competition that requires students to solve practical problems through modeling and programming, which can exercise and test students' ability of analysis, modeling, programming and writing papers. 
