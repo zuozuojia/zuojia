@@ -4,8 +4,8 @@ title: Curriculum Vitae
 ---
 
 
-<a href="../zzj_cv.pdf" target="_blank">[PDF]<a>
-<iframe src="../zzj_cv.pdf" width="1000" height="800"></iframe> 
+<a href="../ZUOJIA_CV.pdf" target="_blank">[PDF]<a>
+<iframe src="../ZUOJIA_CV.pdf" width="1000" height="800"></iframe> 
 
 
 
