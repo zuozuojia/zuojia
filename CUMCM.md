@@ -32,7 +32,7 @@ the global equity.
 <img src="https://zuozuojia.github.io/zuojia/images/cumcm5.png"> -->
 
 <a href="../1.pdf" target="_blank">[PDF]<a>
-<iframe src="../1.pdf" width="800" height="600"></iframe> 
+<iframe src="../1.pdf" width="800" height="400"></iframe> 
 
 ## Analysis and optimization of process conditions for catalytic coupling of ethanol to prepare C4 olefins
 
@@ -45,4 +45,4 @@ I used Python and SPSS to explore ethanol catalysis based on multivariate ANOVA,
 <img src="https://zuozuojia.github.io/zuojia/images/cumcm6.png">
 
 <a href="../2.pdf" target="_blank">[PDF]<a>
-<iframe src="../2.pdf" width="800" height="600"></iframe> 
+<iframe src="../2.pdf" width="800" height="400"></iframe> 
