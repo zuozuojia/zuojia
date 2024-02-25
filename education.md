@@ -8,7 +8,7 @@ title: Education
 [ 2023 - now ]
 - <b>Master of Science</b>: Computer Control and Automation
 - <b>GPA</b>：**<font color='red'>5.0</font> / 5.0**
-- <b>Dissertation</b>: Deep Diffusion Models for Vital Sign Estimation (Supervised by [Dr. Jianfei Yang](https://marsyang.site/))
+- <b>Dissertation</b>: Deep Diffusion Models for Vital Sign Estimation (Supervised by [Dr. Jianfei Yang](https://marsyang.site/) and [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/))
 
 ### **COURSES**
 - Computer Control and Automation (5.0/5.0)
