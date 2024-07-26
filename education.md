@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Education
+title: Education & Experiences
 ---
 
 ## **Nanyang Technological University (NTU)**
 [ Singapore ]
 [ 2023 - now ]
 - <b>Master of Science</b>: Computer Control and Automation
-- <b>GPA</b>：**<font color='red'>5.0</font> / 5.0**
+- <b>GPA</b>：**<font color='red'>4.69</font> / 5.00**
 - <b>Dissertation</b>: Deep Diffusion Models for Vital Sign Estimation (Supervised by [Dr. Jianfei Yang](https://marsyang.site/) and [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/))
 
 ### **COURSES**
@@ -15,6 +15,18 @@ title: Education
 - Linear System (5.0/5.0)
 - Machion Vision (5.0/5.0)
 - System Analysis (5.0/5.0)
+- Multivarible Control Systems Analsys & Design (5.0/5.0)
+- Robotics & Intelligent Sensors (4.5/5.0)
+- Genetic Algorithms & Machine Learning (4.5/5.0)
+- Image Analysis & Pattern Recognition (3.5/5.0)
+
+## **Hong Kong University of Science and Technology (Guang Zhou)**
+[ Guang Zhou ]
+[ 2024.06 - now]
+- <b>Reasearch Assistant</b>
+
+### **PROJECT**
+- Dexterous Hand Manipulation Algorithm based on 3D Diffusion Policy
 
 ## **Harbin Institute of Technology at Weihai (HIT)**
 [ 2019 - 2023 ]
